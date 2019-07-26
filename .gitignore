@@ -1,0 +1,10 @@
+.vscode
+node_modules
+dist
+npm
+*.log
+yarn.lock
+dev-server-key-pair.pem
+/npm
+data
+.DS_Store
